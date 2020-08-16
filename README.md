@@ -1,4 +1,4 @@
-# Angular Projeto de Teste
+# Vue Projeto de Teste
 
 ##### Projeto para realização da prova de conceito.
 
